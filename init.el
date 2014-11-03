@@ -1,5 +1,5 @@
-(setq user-full-name "M Younus Raza"
-      user-mail-address "ymoharaza@gmail.com")
+(setq user-full-name "xxx"
+      user-mail-address "xxx@gmail.com")
 
 (require 'package)
 (package-initialize)
